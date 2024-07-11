@@ -1,7 +1,7 @@
 const Header = () => {
 
 return (
-    <div>The Denim University</div>
+    <div>The Denim Universityyy</div>
 )
 }
 
