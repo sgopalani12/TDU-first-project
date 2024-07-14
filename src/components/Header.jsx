@@ -1,11 +1,11 @@
 import React from "react"
-import '../styles/Header.css'
+import {Image} from "react"
+
 
 const Header = () => {
 
 return (
-    <div>Welcome to The Denim University!</div>
+    <div>Welcome to The Denim University experience!</div>
 )
 }
-
 export default Header
