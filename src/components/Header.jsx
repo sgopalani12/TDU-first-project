@@ -1,7 +1,10 @@
+import React from "react"
+import '../styles/Header.css'
+
 const Header = () => {
 
 return (
-    <div>The Denim University</div>
+    <div>Welcome to The Denim University!</div>
 )
 }
 
