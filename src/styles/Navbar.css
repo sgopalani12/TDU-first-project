@@ -2,12 +2,12 @@
     display: flex;
     justify-content: top;
     align-items: center;
-    background-color: #4a4646;
+    background-color: rgb(241, 255, 214);
     padding: 1rem;
 }
 
 .logo {
-    color: white;
+    color: rgb(0, 0, 0);
     font-size: 2.5rem;
     font-weight: bold;
 }
@@ -15,7 +15,8 @@
 .nav-links {
     list-style: none;
     display: flex;
-    gap: 12rem;
+    gap: 8rem;
+    position: center;
 }
 
 .nav-links li {
@@ -23,7 +24,7 @@
 }
 
 .nav-links a {
-    color: white;
+    color: blue;
     text-decoration: none;
     padding: 0.5rem 1rem;
     transition: background-color 0.3s;
