@@ -1,7 +1,7 @@
 import React from "react"
 import {Image} from "react"
 
-
+const backgroundImage = require("../assets/backgrounds/babyBlue.png"); 
 const Header = () => {
 
 return (
