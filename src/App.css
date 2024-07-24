@@ -5,6 +5,7 @@ left: 0;         /* Align it to the left */
 right: 0; 
 }
 body{
-    background-image: url("./assets/backgroundpic.jpg");
-    width: 600px;
-}
+    overflow-x: scroll;
+    overflow-y: scroll;
+    }
+      

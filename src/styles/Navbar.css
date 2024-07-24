@@ -16,7 +16,7 @@
 .nav-links {
     list-style: none;
     display: flex;
-    gap: 8rem;
+    gap: 4rem;
     position: center;
 }
 
@@ -27,7 +27,7 @@
 
 .nav-links a {
     color: blue;
-    padding: 1rem;
+    padding: 1%;
     transition: background-color 0.5s;
 }
 
@@ -37,4 +37,11 @@
 
 .header{
     color: red;
+}
+label{
+    
+}
+
+@media all and (max-width: 1000px) {
+    
 }
